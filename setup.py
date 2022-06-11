@@ -35,6 +35,5 @@ setup(
         "Operating System :: Microsoft :: Windows",
     ],
     python_requires='>=3.6',
-    py_modules=['object_detector'],
-    scripts=['bin/objectdetector'],
+    py_modules=['object_detector']
 )
